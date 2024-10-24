@@ -6,7 +6,7 @@ from imblearn.over_sampling import SMOTE
 import time
 
 # Load the combined CSV file (after feature engineering)
-input_file = '/Users/pranavponnivalavan/Documents/TCS Motion Study/TCS motiondata/datacombined/combinedoutputlabel.csv'
+input_file = #own file path
 data = pd.read_csv(input_file)
 
 # 1. Data Preprocessing
